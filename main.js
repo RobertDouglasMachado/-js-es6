@@ -1,0 +1,1 @@
+alert("Acessou o arquivo");
